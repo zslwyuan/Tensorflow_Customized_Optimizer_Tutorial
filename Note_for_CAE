@@ -1,0 +1,2 @@
+The task2_plot1.py uses typical solution from TA, but I think it will work less efficiently than task2_plot1.py.
+You can notice that task2_plot1.py uses conv_transpose() to do de-convolution while task2_plot.py uses resize().
