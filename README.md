@@ -1,5 +1,6 @@
 
-   Thanks for your review. Following are the guide to
+   Thanks for Prof. Yeung's detailed lectures and TAs' patient guide!
+   Following are the guide to
    test my project. You can also access following links
    to watch some basic DEMOs videos of my project:
    
