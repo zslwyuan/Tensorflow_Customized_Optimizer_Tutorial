@@ -5,11 +5,11 @@
    to watch some basic DEMOs videos of my project:
    
    
-        CNN DEMO:                         https://www.youtube.com/watch?v=yarDP2YRYok
+CNN DEMO:                         https://www.youtube.com/watch?v=yarDP2YRYok
 
-        CAE DEMO(Learning Rate = 0.1):    https://www.youtube.com/watch?v=I5Z8MNnHnKc
+CAE DEMO(Learning Rate = 0.1):    https://www.youtube.com/watch?v=I5Z8MNnHnKc
 
-        CAE DEMO(Learning Rate = 0.001):  https://www.youtube.com/watch?v=6aa1Vx_Z8Hg
+CAE DEMO(Learning Rate = 0.001):  https://www.youtube.com/watch?v=6aa1Vx_Z8Hg
 
 
 GUIDE:
