@@ -2,7 +2,7 @@
    Thanks for Prof. Yeung's detailed lectures and TAs' patient guide!
    Following are the guide to
    test my project. You can also access following links
-   to watch some basic DEMOs videos of my project:
+   to watch some basic DEMOs videos of my project. There are detailed comments in the source code and the [report](https://github.com/zslwyuan/Tensorflow_Customized_Optimizer_Tutorial/blob/master/prj_report.pdf) will also help for understanding.
    
    
 CNN DEMO:                         https://www.youtube.com/watch?v=yarDP2YRYok
